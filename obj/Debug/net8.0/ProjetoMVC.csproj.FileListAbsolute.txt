@@ -134,3 +134,4 @@ C:\Users\heber\OneDrive\Área de Trabalho\Dev\projetoDotnet\ProjetoMVC\bin\Debug
 C:\Users\heber\OneDrive\Área de Trabalho\Dev\projetoDotnet\ProjetoMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\heber\OneDrive\Área de Trabalho\Dev\projetoDotnet\ProjetoMVC\obj\Debug\net8.0\ProjetoMVC.csproj.AssemblyReference.cache
 C:\Users\heber\OneDrive\Área de Trabalho\Dev\projetoDotnet\ProjetoMVC\obj\Debug\net8.0\ProjetoMVC.csproj.Up2Date
+C:\Users\heber\OneDrive\Área de Trabalho\Dev\projetoDotnet\ProjetoMVC\obj\Debug\net8.0\ProjetoMVC.sourcelink.json
