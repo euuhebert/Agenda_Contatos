@@ -21,10 +21,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Links importantes
 * [ASP.NET Core Documentation](https://docs.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-6.0) - Documentação oficial do ASP.NET Core.
-- [Documentação do C#](https://docs.microsoft.com/pt-br/dotnet/csharp/): Documentação oficial da linguagem de programação C#.
-- [Documentação do HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML): Documentação oficial da linguagem de marcação HTML.
-- [Documentação do CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS): Documentação oficial da linguagem de estilização CSS.
-- [Documentação do Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/): Documentação oficial do framework Bootstrap.
+* [Documentação do C#](https://docs.microsoft.com/pt-br/dotnet/csharp/): Documentação oficial da linguagem de programação C#.
+* [Documentação do HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML): Documentação oficial da linguagem de marcação HTML.
+* [Documentação do CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS): Documentação oficial da linguagem de estilização CSS.
+* [Documentação do Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/): Documentação oficial do framework Bootstrap.
 
 ## Estrutura do Projeto
 
